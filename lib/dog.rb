@@ -1,5 +1,5 @@
 class Dog
-  def name = (dog_name) #writer
+  def name= (dog_name) #writer
     this_dogs_name = dog_name
   end
 
